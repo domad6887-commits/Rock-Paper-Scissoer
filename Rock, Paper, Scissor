@@ -3,7 +3,7 @@ import random
 
 Gamechoices = ["Rock", "Paper", "Scissor"]
 
-# قوانين الفوز
+
 rules = {
     "Rock": "Scissor",
     "Paper": "Rock",
