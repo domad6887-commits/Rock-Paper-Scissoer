@@ -1,1 +1,1 @@
-This is my rock paper scissors project and I used these codes for two reasons firstly they are very simple and easy to understand and nothing else.
+This is my rock paper scissors project and I used these codes for two reasons firstly they are very simple and easy to understand and nothing else.This project by python 
